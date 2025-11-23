@@ -1,0 +1,11 @@
+cv2
+seaborn
+pandas
+numpy
+PIL
+scikit-learn
+collections
+tensorflow
+visualkeras
+matplotlib.pyplot
+os
