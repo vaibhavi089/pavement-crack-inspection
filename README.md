@@ -5,7 +5,7 @@ The project demonstrates preprocessing, patch encoding, model construction, trai
 
 ---
 
-## 🚧 Overview
+## Overview
 
 Road crack detection is essential for infrastructure maintenance. Deep learning provides accurate, scalable, and automated inspection capabilities.
 
@@ -16,7 +16,7 @@ This project compares:
 
 ---
 
-## 🧠 CNN Approach
+## CNN Approach
 
 CNNs extract local spatial features such as edges and crack textures.
 
@@ -31,7 +31,7 @@ CNNs extract local spatial features such as edges and crack textures.
 
 ---
 
-## ⚡ Vision Transformer (ViT) Approach
+##  Vision Transformer (ViT) Approach
 
 ViTs use self-attention to understand global crack structures.
 
